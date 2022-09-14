@@ -1,5 +1,5 @@
 # Team-Profile-Generator
-![](https://github.com/rpjtarnofsky/Team-Profile-Generator/blob/cad7668b80a59f0db3a68da4eb187d81dfb645e4/Team%20Prof%20Gen%20Demo.webm)
+![](https://github.com/rpjtarnofsky/Team-Profile-Generator/blob/main/media/Team%20Prof%20Gen%20Demo.gif?raw=true)
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
